@@ -4,4 +4,10 @@
 
 !README.md
 
-!**/*.pdf
+!/**
+
+**/*.tex
+
+**/build/*
+
+!**/build/*.pdf
