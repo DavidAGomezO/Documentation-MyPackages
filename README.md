@@ -5,6 +5,6 @@ Las documentaciones se encuentran en la carpeta [build](https://github.com/David
 Aquí los documentos para cada librería:
 
 - [logicDG](https://github.com/DavidAGomezO/Documentation-MyPackages/blob/master/build/logicDGDoc.pdf)
-- [CalcDG]
+- [CalcDG](https://github.com/DavidAGomezO/Documentation-MyPackages/blob/master/build/calcDGDoc.pdf)
 - [analysis]
 - [tpro]
