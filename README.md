@@ -6,5 +6,5 @@ Aquí los documentos para cada librería:
 
 - [logicDG](https://github.com/DavidAGomezO/Documentation-MyPackages/blob/master/build/logicDGDoc.pdf)
 - [CalcDG](https://github.com/DavidAGomezO/Documentation-MyPackages/blob/master/build/calcDGDoc.pdf)
-- [analysis]
+- [analysis](https://github.com/DavidAGomezO/Documentation-MyPackages/blob/master/build/analysisDoc.pdf)
 - [tpro]
